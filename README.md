@@ -1,6 +1,8 @@
 # [分享] The Little Dict (Apple Dictionary 格式) - macOS 专用
 
 ## 简介
+
+![The Little Dict macOS 效果图](screenshot.png)
 **The Little Dict** 是一款非常经典的词典，原版为 MDX 格式，虽然很好用，但是没法用macOS三指触摸查词，macOS的原生查词还是太方便了，一按即查词，这是任何第三方软件很难做到的。因此，为了方便 macOS 用户原生使用，我将其转换成了苹果词典（.dictionary）格式，并打包成了 DMG 镜像，方便安装和分享。
 
 ## 资源说明
