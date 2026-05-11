@@ -29,6 +29,7 @@
 2. 打开 **“朗读所选内容” (Speak selection)** 开关。
 3. 点击右侧的 **“i” (感叹号)** 图标，可以自定义快捷键（默认为 `Option + Esc`）。
    ![TTS 设置 1](tts_1.png)
+   ![TTS 快捷键设置](tts_shortcut.png)
 4. 在 **“系统语音” (System voice)** 旁点击感叹号，选择你喜欢的发音。建议选择带有 **Enhanced** 或 **Premium** 标签的高质量语音（例如英音 Jamie 或美音 Samantha），音质非常出色。
    ![TTS 设置 2](tts_2.png)
 5. **使用方法**：在词典中选中单词或例句，按下快捷键（如 `Option + Esc`）即可即时朗读。
