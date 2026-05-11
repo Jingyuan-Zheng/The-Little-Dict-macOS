@@ -19,6 +19,20 @@
 4. 在菜单栏点击 **设置 (Settings/Preferences)**，勾选 "The Little Dict" 即可启用，拖动可排序，需要首个显示的话排到第一位。
 5. 现在你可以在 Spotlight 或使用三指取词直接查看该词典内容。
 
+## 开发者说明 (源码维护)
+本仓库的 `src` 目录下包含了构建该词典所需的样式表和配置文件。如果你想修改外观或更新词条：
+
+1. 安装 [Apple Dictionary Development Kit](https://developer.apple.com/download/all/?q=Dictionary%20Development%20Kit)。
+2. 准备好你的 `The_Little_Dict.xml` 数据文件（通常由 MDX 转换而来）。
+3. 将 XML 放入 `src` 目录。
+4. 在 `src` 目录下运行 `make` 命令进行编译。
+5. 运行 `make install` 将生成的词典安装到系统目录。
+
+**核心文件说明：**
+- `The_Little_Dict.css`: 控制词典排版样式。
+- `config.ini` & `fy.js`: 词典的功能开关和交互逻辑。
+- `Makefile`: 构建脚本。
+
 ## 下载链接
 > **提示**：由于文件体积较大，建议使用支持断点续传的工具下载。**笔者很讨厌百度网盘和国内一众需要登录才能下载还限速的网盘，虽然Google Drive或者OneDrive方便，但考虑到中国大陆用户不便访问，本资源仅在本人GitHub和FreeMDict帖子获取。**
 
