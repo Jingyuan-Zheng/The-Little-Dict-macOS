@@ -56,3 +56,5 @@
 ---
 *声明：本资源仅供学习交流使用，版权归原作者所有。如果喜欢请支持原版。*
 
+友情链接：另外在这里放置一下常见的macOS字典下载，仅供分享：[Apple Dictionary](https://github.com/tisfeng/Easydict/blob/dev/docs/zh/How-to-use-macOS-system-dictionary-in-Easydict.md)
+
